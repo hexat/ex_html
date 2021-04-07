@@ -1,0 +1,8 @@
+{
+  "name": "HTML com o NodeJS no Heroku",
+  "description": "Rodando Apenas Arquivos HTML com o NodeJS no Heroku",
+  "repository": "https://github.com/hexat/ex_html.git",
+  "logo": "https://cdn.rawgit.com/heroku/ex_html/main/public/node.svg",
+  "keywords": ["node", "express", "heroku", "HTML],
+  "image": "heroku/nodejs"
+}
